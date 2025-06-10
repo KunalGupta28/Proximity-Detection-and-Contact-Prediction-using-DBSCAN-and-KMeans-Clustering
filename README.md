@@ -43,5 +43,3 @@ Note: DBSCAN cannot predict new points after training.
 
 ## Author
 Kunal Gupta
-LinkedIn: [Add your link here]
-GitHub: [Add your link here]
